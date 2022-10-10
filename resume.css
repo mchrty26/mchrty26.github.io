@@ -40,8 +40,8 @@ a#pdf:hover { background: #222; }
 
 .last { border: none; }
 .skills-list {  }
-.skills-list ul { margin: 0; }
-.skills-list li { margin: 3px 0; padding: 3px 0; }
+.skills-list ul { margin: 5; }
+.skills-list li { margin: 4px 0; padding: 4px 0; }
 .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
 .talent { width: 32%; float: left }
 .talent h2 { margin-bottom: 6px; }
